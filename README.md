@@ -42,7 +42,3 @@ Vind je 112hier handig? [Trakteer op een kop koffie](https://ko-fi.com/112hier) 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=boonstraworks&show_icons=true&hide_border=true&count_private=true" alt="GitHub-statistieken" height="165">
 </p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=boonstraworks&column=6&margin-w=8&margin-h=8" alt="GitHub-trofeeen">
-</p>
