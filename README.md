@@ -14,6 +14,7 @@ Ik bouw websites, tools en koppelingen voor ondernemers in de **Kop van Noord-Ho
 | 📄 | [MijnCVMaatje.nl](https://mijncvmaatje.nl) | Een cv-bouwer die laat zien hoe het uit de printer komt |
 | 🧮 | [Rekencheck.nl](https://rekencheck.nl) | Achtendertig rekenhulpen die laten zien hoe ze aan het antwoord komen |
 | 🚗 | [APKgebreken.nl](https://apkgebreken.nl) | Het APK-verleden van een auto, voordat je hem koopt |
+| ♿ | [a11yscope](https://github.com/boonstraworks/a11yscope) | Open-source scanner die een site op toegankelijkheid controleert en de fouten koppelt aan de European Accessibility Act |
 
 ### Open source waar ik aan meebouw
 
@@ -23,9 +24,11 @@ Naast eigen werk draag ik bij aan open-source projecten — van bugfixes en nieu
 |---|---|
 | [NL Design System](https://github.com/nl-design-system/documentatie) | Verbeteringen aan de documentatiesite |
 | [floe](https://github.com/jannskiee/floe) | Schermlezer-toegankelijkheid (gemerged) |
-| [invoicerr](https://github.com/invoicerr-app/invoicerr) | Dashboard-fix voor valuta per maand |
-| [python-weerlive](https://github.com/golles/python-weerlive) | Duidelijke foutmeldingen bij API-fouten |
+| [invoicerr](https://github.com/invoicerr-app/invoicerr) | Dashboard-fix voor valuta per maand (gemerged) |
+| [python-weerlive](https://github.com/golles/python-weerlive) | Duidelijke foutmeldingen bij API-fouten (gemerged) |
 | [NetSpeedTray](https://github.com/erez-c137/NetSpeedTray) | Nederlandse vertaling (versie 2.2) |
+| [Distributor](https://github.com/10up/distributor) | Voorkeuren-modal en metaboxen weer klikbaar in gekoppelde berichten (WordPress-plugin) |
+| [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) | Fix voor uitloggen bij signon-authenticatie |
 
 ### Waarmee ik help
 
